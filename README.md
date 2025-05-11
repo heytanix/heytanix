@@ -10,7 +10,7 @@ I’m currently pursuing a Bachelors of Technology in Artificial Intelligence an
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<!--![](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true)<br/>-->
+![](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
 ## 💰 You can help me by Donating
