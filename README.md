@@ -1,6 +1,8 @@
 # 👤 About Me
 I’m currently pursuing Bachelors of Technology in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University).<br>My passion lies in the dynamic world of Computer Science, especially in the areas of Artificial Intelligence and Machine Learning.<br>I approach technology with a forward-thinking mindset, recognizing its potential to shape the future.<br><br>I’m constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>
 
+## Hackathons Attended
+- Smart India Hackathon 2025 (PSID: SIH25100)
 
 ## 🌐 My Socials
 <!--[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/heytanix.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/heytanix)-->
