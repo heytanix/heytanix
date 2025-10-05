@@ -3,6 +3,7 @@ I’m currently pursuing Bachelors of Technology in Artificial Intelligence and 
 
 ## Hackathons Attended
 - Smart India Hackathon 2025 (PSID: SIH25100)
+- HackOn With Amazon - Season 5
 
 ## 🌐 My Socials
 <!--[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/heytanix.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/heytanix)-->
