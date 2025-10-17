@@ -1,9 +1,21 @@
 # 👤 About Me
-I’m currently pursuing Bachelors of Technology in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University).<br>My passion lies in the dynamic world of Computer Science, especially in the areas of Artificial Intelligence and Machine Learning.<br>I approach technology with a forward-thinking mindset, recognizing its potential to shape the future.<br><br>I’m constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>
+I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University).<br>My passion lies in the dynamic world of Computer Science, especially in the areas of Artificial Intelligence and Machine Learning.<br>I approach technology with a forward-thinking mindset, recognizing its potential to shape the future.<br><br>I'm constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>
 
 ## Hackathons Participation
 - Smart India Hackathon 2025 (PSID: SIH25100)
 - HackOn With Amazon - Season 5
+
+## Projects done
+- [**MoodAPP**](https://github.com/heytanix/MoodAPP) - Mood tracking web application with live deployment
+- [**3Dmapper**](https://github.com/heytanix/3Dmapper) - Python Flask application to extract 3D maps from 2D maps
+- [**GPT2_With_LoRA**](https://github.com/heytanix/GPT2_With_LoRA) - PyTorch-based fine-tuning of GPT-2 using LoRA with memory optimization
+- [**stock_curtrend**](https://github.com/heytanix/stock_curtrend) - Custom Pinescript indicator for TradingView market trend visualization
+- [**PROJECT_DROWSINESS**](https://github.com/heytanix/PROJECT_DROWSINESS) - Driver drowsiness detection system using computer vision
+- [**TubeDown**](https://github.com/heytanix/TubeDown) - YouTube video downloader using yt-dlp library
+- [**HostelFoodBot**](https://github.com/heytanix/HostelFoodBot) - Web-based hostel food management chatbot
+- [**MSML_Repository**](https://github.com/heytanix/MSML_Repository) - Machine Learning and Data Science experiential learning projects
+- [**URlit**](https://github.com/heytanix/URlit) - URL shortener tool using TinyURL API
+- [**Storage_Swipe**](https://github.com/heytanix/Storage_Swipe) - Storage management utility tool
 
 ## 🌐 My Socials
 <!--[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/heytanix.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/heytanix)-->
