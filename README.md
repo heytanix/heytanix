@@ -71,7 +71,7 @@ I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Ma
 
 # 📝 GitHub Statistics (Latest)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heytanix)](https://git.io/streak-stats)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🫡 Your Donations are most welcome
