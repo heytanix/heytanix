@@ -6,7 +6,7 @@ I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Ma
 - HackOn With Amazon - Season 5
 
 ## Projects done
-- [**MoodAPP**](https://github.com/heytanix/MoodAPP) - Mood tracking web application with live deployment
+- [**MoodAPP**](https://github.com/heytanix/MoodAPP) - Mood tracking web application with deployment
 - [**3Dmapper**](https://github.com/heytanix/3Dmapper) - Python Flask application to extract 3D maps from 2D maps
 - [**GPT2_With_LoRA**](https://github.com/heytanix/GPT2_With_LoRA) - PyTorch-based fine-tuning of GPT-2 using LoRA with memory optimization
 - [**stock_curtrend**](https://github.com/heytanix/stock_curtrend) - Custom Pinescript indicator for TradingView market trend visualization
