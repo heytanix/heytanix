@@ -69,8 +69,8 @@ I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Ma
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)-->
 
-# 📝 GitHub Statistics
-<!-- ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+<!--# 📝 GitHub Statistics
+<!-- ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heytanix)](https://git.io/streak-stats)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
