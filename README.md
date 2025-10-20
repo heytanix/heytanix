@@ -1,4 +1,4 @@
-# 👤 My Info
+# 👤 About Me
 I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University).<br>My passion lies in the dynamic world of Computer Science, especially in the areas of Artificial Intelligence and Machine Learning.<br>I approach technology with a forward-thinking mindset, recognizing its potential to shape the future.<br><br>I'm constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>
 
 ## Hackathons Participation
@@ -71,7 +71,7 @@ I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Ma
 
 # 📝 GitHub Statistics
 <!-- ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
-[[![GitHub Streak]([https://streak-stats.demolab.com/?user=heytanix](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🫡 Your Donations are most welcome
