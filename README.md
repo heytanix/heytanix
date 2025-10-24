@@ -1,5 +1,12 @@
 # 👤 About Me
-I'm currently pursuing Bachelors of Technology in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University).<br>My passion lies in the dynamic world of Computer Science, especially in the areas of Artificial Intelligence and Machine Learning.<br>I approach technology with a forward-thinking mindset, recognizing its potential to shape the future.<br><br>I'm constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>
+As a BTech student specializing in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University), I am actively pursuing internships and opportunities within college clubs to enhance my skills and gain practical experience. I approach the dynamic field of technology with a forward-thinking mindset, fully aware of its transformative potential to shape the future.<br><br>I'm constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>🎯 Leading tech initiatives as Design Lead of Tech Turing Club.<br>
+
+## Professional Experience
+- **Design Lead** - Turing Club (May 2024 - September 2024)
+- **Student Coordinator** - ZIGBEE CLUB FET-JU (October 2023 - Present)
+- **Quality Assurance Analyst** - HELPY_MOTO (December 2023 - March 2024)
+- **Technical Support Intern** - GAOTek Inc. (November 2023 - December 2023)
+- **Member** - Google Developer Student Clubs FET JU (October 2023 - August 2024)
 
 ## Hackathons participated in
 - Smart India Hackathon 2025 (PSID: SIH25100)
