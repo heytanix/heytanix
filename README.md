@@ -79,7 +79,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 # 📝 GitHub Statistics
 <!-- ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true)<br/>
-![Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=react-dark&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko)](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko)](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko))
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=react-dark&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko)](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko)](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko))
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🫡 Your Donations are most welcome
