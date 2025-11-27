@@ -21,7 +21,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 - [**TubeDown**](https://github.com/heytanix/TubeDown) - YouTube video downloader using yt-dlp library
 - [**HostelFoodBot**](https://github.com/heytanix/HostelFoodBot) - Web-based hostel food management chatbot
 - [**MSML_Repository**](https://github.com/heytanix/MSML_Repository) - Machine Learning and Data Science experiential learning projects
-- [**URlit**](https://github.com/heytanix/URlit) - URL shortener tool using TinyURL API
+- [**URlit**](https://github.com/heytanix/URlit) - URL shortener using TinyURL API
 - [**Storage_Swipe**](https://github.com/heytanix/Storage_Swipe) - Storage management utility tool
 
 ## 🌐 My Socials
