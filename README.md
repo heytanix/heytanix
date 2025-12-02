@@ -4,7 +4,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 ## Professional Experience
 - **Technical Strategist** - ApexOne Studios (November 2025 - Present)
 - **Lead** - Turing Club (May 2025 - Present)
-- **Design Lead** - Turing Club (May 2024 - September 2024)
+- **Design Lead** - Turing Club (May 2024 - May 2025)
 - **Student Coordinator** - ZIGBEE CLUB FET-JU (October 2023 - April 2024)
 - **Quality Assurance Analyst** - HELPY_MOTO (December 2023 - March 2024)
 - **Technical Support Intern** - GAOTek Inc. (November 2023 - December 2023)
