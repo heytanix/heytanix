@@ -12,7 +12,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 
 ## Hackathons participated in
 - Smart India Hackathon 2025 (PSID: SIH25100)
-- HackOn With Amazon - Season 5
+- HackOn With Amazon (Season 5)
 
 ## Projects done
 - [**MoodAPP**](https://github.com/heytanix/MoodAPP) - Mood tracking web application with live deployment
