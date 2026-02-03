@@ -2,7 +2,8 @@
 As a BTech student specializing in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University), I am actively pursuing internships and opportunities within college clubs to enhance my skills and gain practical experience. I approach the dynamic field of technology with a forward-thinking mindset, fully aware of its transformative potential to shape the future.<br><br>I'm constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>🎯 Leading tech initiatives as Club Lead of Tech Turing Club.<br>
 
 ## Professional Experience
-- **Technical Strategist** - ApexOne Studios (November 2025 - Present)
+- **Chief of AI, R&D** - ApexOne Studios (January 2026 - Present)
+- **Technical Strategist** - ApexOne Studios (November 2025 - January 2026)
 - **Lead** - Turing Club (May 2025 - January 2026)
 - **Design Lead** - Turing Club (May 2024 - May 2025)
 - **Student Coordinator** - ZIGBEE CLUB FET-JU (October 2023 - April 2024)
