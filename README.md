@@ -83,7 +83,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)-->
 
-# 📝 GitHub Statistics
+<!-- # 📝 GitHub Statistics
 ![](https://github-readme-activity-graph.vercel.app/graph?username=heytanix&theme=merko&hide_border=true&area=true)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=heytanix&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
 <!--![](https://nirzak-streak-stats.vercel.app/?user=heytanix&theme=dark&hide_border=true&background=black)</br>-->
