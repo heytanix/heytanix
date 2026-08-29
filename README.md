@@ -2,7 +2,7 @@
 As a BTech student specializing in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be University), I am actively pursuing internships and opportunities within college clubs to enhance my skills and gain practical experience. I approach the dynamic field of technology with a forward-thinking mindset, fully aware of its transformative potential to shape the future.<br><br>I'm constantly honing my skills through:<br>📚 Engaging in projects and contributing to repositories.<br>💡 Participating in internships and college club activities to gain hands-on experience.<br>🎯 Leading tech initiatives as Club Lead of Tech Turing Club.<br>
 
 ## Professional Experience
-- **Chief of AI, R&D** - ApexOne Studios (January 2026 - Present)
+- **Chief of AI, R&D** - ApexOne Studios (January 2026 - August 2026)
 - **Technical Strategist** - ApexOne Studios (November 2025 - January 2026)
 - **Lead** - Turing Club (May 2025 - January 2026)
 - **Design Lead** - Turing Club (May 2024 - May 2025)
@@ -15,7 +15,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 - Smart India Hackathon 2025 (PSID: SIH25100)
 - HackOn With Amazon (Season 5)
 
-## Projects done
+<!-- ## Projects done
 - [**MoodAPP**](https://github.com/heytanix/MoodAPP) - Mood tracking web application with live deployment
 - [**3Dmapper**](https://github.com/heytanix/3Dmapper) - Python Flask application to extract 3D maps from 2D maps
 - [**GPT2_With_LoRA**](https://github.com/heytanix/GPT2_With_LoRA) - PyTorch-based fine-tuning of GPT-2 using LoRA with memory optimization
@@ -25,9 +25,9 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 - [**HostelFoodBot**](https://github.com/heytanix/HostelFoodBot) - Web-based hostel food management chatbot
 - [**MSML_Repository**](https://github.com/heytanix/MSML_Repository) - Machine Learning and Data Science experiential learning projects
 - [**URlit**](https://github.com/heytanix/URlit) - URL shortener using TinyURL API
-- [**Storage_Swipe**](https://github.com/heytanix/Storage_Swipe) - Storage management utility tool
+- [**Storage_Swipe**](https://github.com/heytanix/Storage_Swipe) - Storage management utility tool -->
 
-## 🌐 My Socials
+## 🌐 Contact Me
 <!--[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/heytanix.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/heytanix)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heytanix) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27273389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanish.kc@gmail.com)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heytanix)-->
