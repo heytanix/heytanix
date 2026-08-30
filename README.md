@@ -27,7 +27,7 @@ As a BTech student specializing in Artificial Intelligence and Machine Learning 
 - [**URlit**](https://github.com/heytanix/URlit) - URL shortener using TinyURL API
 - [**Storage_Swipe**](https://github.com/heytanix/Storage_Swipe) - Storage management utility tool -->
 
-## 🌐 Contact Me
+## 🌐 My Profiles
 <!--[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/heytanix.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/heytanix)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heytanix) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27273389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanish.kc@gmail.com)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heytanix)-->
